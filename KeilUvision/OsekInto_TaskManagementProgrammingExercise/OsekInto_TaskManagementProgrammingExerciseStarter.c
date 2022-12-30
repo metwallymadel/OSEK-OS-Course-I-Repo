@@ -76,6 +76,7 @@ TASK(AppTask_Red)
    ChainTask(AppTask_Green); 
 }
 
+
 TASK(AppTask_Green)
 {
    uint8_t l_index = 0U; 
